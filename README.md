@@ -1,0 +1,1 @@
+In this project, I'm recreating the Google homepage using Chrome Dev Tools, HTML, and CSS. 
